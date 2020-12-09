@@ -1,0 +1,19 @@
+.clearBtn{
+    width: 260px;
+    height: 50px;
+    border: 0.1rem solid;
+}
+.field{
+    width: 100px;
+    height: 100px;
+    border: 0.1rem solid;
+    
+}
+.bgX
+{
+  background-image: url("x.png");
+}
+.bgO
+{
+  background-image: url("o.png");
+}
